@@ -22,7 +22,7 @@ The script generates a directory structure consisting of dummy departmental fold
   cd DecoyOps
 
 3. Run the script:
-  cd DecoyOps
+  python decoy_ops.py
 
 4. Monitor the output and alterations.log for simulated activity and trap detections.
 
