@@ -24,17 +24,22 @@ The script generates a directory structure consisting of dummy departmental fold
 3. Run the script:
   python decoy_ops.py
 
-4. Monitor the output and alterations.log for simulated activity and trap detections.
+
+4. **Monitor the output and `alterations.log` for simulated activity and trap detections.**
 
 ## Customization
--Adjust the parameters in the script to modify the behavior of the simulation.
--Customize the directory structure and file contents as needed for your testing environment.
 
-##Contributors
-Ricky Villareal
+- Adjust the parameters in the script to modify the behavior of the simulation.
+- Customize the directory structure and file contents as needed for your testing environment.
 
-License
+## Contributors
+
+- Ricky Villareal
+
+## License
+
 This project is licensed under the MIT License.
+
 
 Now, you can easily copy and paste this Markdown directly into your README.md file!
 
